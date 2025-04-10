@@ -60,7 +60,7 @@ Seguir creciendo como desarrollador y colaborar en proyectos donde pueda **aport
 > Plataforma web para publicación y gestión de productos de madera. Permite a los administradores subir, editar y eliminar productos e información de usuarios desde una interfaz clara y visual.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yspalacios/proyecto-maderas/main/preview-maderas.png" alt="Vista previa de Maderas" width="600" style="border-radius: 12px;" />
+  <img ![vista previa de maderas] src="https://github.com/yspalacios/Paginamaderas/blob/main/muestra.png" alt="Vista previa de Maderas" width="600" style="border-radius: 12px;" />
 </p>
 
 - 🧰 **Tecnologías:** HTML, CSS personalizado, JavaScript puro
@@ -76,7 +76,7 @@ Seguir creciendo como desarrollador y colaborar en proyectos donde pueda **aport
 > Mini juego interactivo tipo arena donde eliges un personaje, combates por rondas en un coliseo y mejoras tus habilidades comprando objetos. Cada 3 combates enfrentas a un jefe. Sistema visual limpio y minimalista.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yspalacios/makepon/main/preview-makepon.png" alt="Vista previa de Makepon" width="600" style="border-radius: 12px;" />
+  <img ![Vista previa de juego makepon] src="https://github.com/yspalacios/Paginamaderas/blob/main/muestra.png" alt="Vista previa de Makepon" width="600" style="border-radius: 12px;" />
 </p>
 
 - 🎮 **Género:** Juego de combate por rondas estilo coliseo
