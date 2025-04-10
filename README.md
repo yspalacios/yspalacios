@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Yahir Palacios</h1>
 
 <p align="center">
-💻 Desarrollador Full Stack apasionado por la tecnología, la accesibilidad y la experiencia de usuario.<br>
+💻 Desarrollador aprendiz en Full Stack apasionado por la tecnología, la accesibilidad y la experiencia de usuario.<br>
 📚 Siempre aprendiendo, siempre creando soluciones modernas y funcionales.
 </p>
 
@@ -43,7 +43,7 @@ Soy un desarrollador comprometido con la mejora continua, con experiencia en **b
 
 ## 💡 Mi meta
 
-Seguir creciendo como desarrollador y colaborar en proyectos donde pueda **aportar valor real**, aprender nuevas tecnologías y trabajar con personas increíbles. 🌟
+Seguir creciendo como desarrollador y colaborar en proyectos donde pueda **aportar valor real**, aprender nuevas tecnologías y trabajar con personas increíbles mientras adquiero mas conocimiento y experiencia. 🌟
 
 ---
 
