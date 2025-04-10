@@ -51,6 +51,47 @@ Seguir creciendo como desarrollador y colaborar en proyectos donde pueda **aport
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=¡Gracias+por+visitar+mi+perfil!;Estoy+abierto+a+colaboraciones+y+oportunidades." alt="Typing SVG" />
 </p>
 
+---
+
+## 🧩 Proyectos Destacados
+
+### 🪵 Proyecto: Maderas
+
+> Plataforma web para publicación y gestión de productos de madera. Permite a los administradores subir, editar y eliminar productos e información de usuarios desde una interfaz clara y visual.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yspalacios/proyecto-maderas/main/preview-maderas.png" alt="Vista previa de Maderas" width="600" style="border-radius: 12px;" />
+</p>
+
+- 🧰 **Tecnologías:** HTML, CSS personalizado, JavaScript puro
+- 💡 **Funcionalidades:** Gestión de productos, CRUD visual con modales, diseño responsive
+- 🧑‍💼 **Objetivo:** Proveer una herramienta práctica y estética para gestión de catálogo
+
+[🔗 Ver repositorio del proyecto Maderas](https://github.com/yspalacios/proyecto-maderas)
+
+---
+
+### ⚔️ Makepon (Juego base demo)
+
+> Mini juego interactivo tipo arena donde eliges un personaje, combates por rondas en un coliseo y mejoras tus habilidades comprando objetos. Cada 3 combates enfrentas a un jefe. Sistema visual limpio y minimalista.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yspalacios/makepon/main/preview-makepon.png" alt="Vista previa de Makepon" width="600" style="border-radius: 12px;" />
+</p>
+
+- 🎮 **Género:** Juego de combate por rondas estilo coliseo
+- 🛍️ **Funciones clave:** Elección de personajes, combate dinámico, tienda de objetos, sistema de progresión con jefes
+- 🧪 **Propósito:** Base técnica para desarrollar juegos más grandes y experimentar con UI/UX interactivo
+
+[🔗 Ver repositorio Makepon](https://github.com/yspalacios/makepon)
+
+---
+
+### 🎥 ¿Quieres ver más?
+
+> Pronto subiré más demos, capturas y videos mostrando los proyectos en acción.  
+> ¡Estoy abierto a ideas, mejoras y colaboraciones! 🚀
+
 
 <!--
 **yspalacios/yspalacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
