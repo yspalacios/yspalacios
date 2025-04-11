@@ -48,7 +48,7 @@ Seguir creciendo como desarrollador y colaborar en proyectos donde pueda **aport
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=¡Gracias+por+visitar+mi+perfil!;Estoy+abierto+a+colaboraciones+y+oportunidades." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=%C2%A1Gracias+por+visitar+mi+perfil!;Estoy+abierto+a+colaboraciones+y+oportunidades." alt="Typing SVG" />
 </p>
 
 ---
